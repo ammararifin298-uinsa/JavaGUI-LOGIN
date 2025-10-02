@@ -13,8 +13,3 @@ Aplikasi Java GUI sederhana dengan koneksi ke database MySQL.
 - `src/RegisterApp.java` → GUI registrasi
 - `src/UserManagementApp.java` → manajemen user
 - `database/loginapp.sql` → file SQL database
-
-## Cara Menjalankan
-1. Import `database/loginapp.sql` ke MySQL.
-2. Atur `Koneksi.java` sesuai username & password database lokal.
-3. Jalankan `LoginApp.java` di NetBeans/Eclipse.
