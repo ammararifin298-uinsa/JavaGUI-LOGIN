@@ -1,6 +1,6 @@
 # Java GUI Login App
 
-Aplikasi Java GUI sederhana dengan koneksi ke database MySQL.
+Aplikasi Java GUI sederhana dengan koneksi ke database PostgreSQL.
 
 ## Fitur
 - Login
