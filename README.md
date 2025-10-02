@@ -8,7 +8,7 @@ Aplikasi Java GUI sederhana dengan koneksi ke database PostgreSQL.
 - User Management
 
 ## File
-- `src/Koneksi.java` → koneksi ke MySQL
+- `src/Koneksi.java` → koneksi ke PostgreSQL
 - `src/LoginApp.java` → GUI login
 - `src/RegisterApp.java` → GUI registrasi
 - `src/UserManagementApp.java` → manajemen user
